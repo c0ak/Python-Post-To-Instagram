@@ -1,5 +1,5 @@
 # About
-The following scripts allow you to easily post images to Python without any hassle.  
+The following scripts allow you to easily post images to Instagram using Python without any hassle.  
 Copy and paste the two following scripts into you project and install the requirements and get yourself up and running in no time.  
 Note: Windows Only!
 
